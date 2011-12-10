@@ -1,0 +1,60 @@
+[submodule "actionscript3.tmbundle"]
+	path = actionscript3.tmbundle
+	url = git://github.com/simongregory/actionscript3-tmbundle.git
+[submodule "actionscript3-puremvc.tmbundle"]
+	path = actionscript3-puremvc.tmbundle
+	url = http://github.com/simongregory/actionscript3-puremvc.tmbundle.git
+[submodule "capistrano.tmbundle"]
+	path = capistrano.tmbundle
+	url = git://github.com/vigetlabs/capistrano-tmbundle.git
+[submodule "textmate-clojure.tmbundle"]
+	path = textmate-clojure.tmbundle
+	url = git://github.com/swannodette/textmate-clojure.git
+[submodule "coffee-script.tmbundle"]
+	path = coffee-script.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle
+[submodule "flex.tmbundle"]
+	path = flex.tmbundle
+	url = git://github.com/simongregory/flex-tmbundle.git
+[submodule "git.tmbundle"]
+	path = git.tmbundle
+	url = git://github.com/jcf/git-tmbundle.git
+[submodule "github.tmbundle"]
+	path = github.tmbundle
+	url = https://github.com/drnic/github-tmbundle.git
+[submodule "handcrafted-haml.tmbundle"]
+	path = handcrafted-haml.tmbundle
+	url = https://github.com/amarshall/handcrafted-haml-textmate-bundle.git
+[submodule "html5.tmbundle"]
+	path = html5.tmbundle
+	url = http://github.com/svnlto/html5.tmbundle.git
+[submodule "jade.tmbundle"]
+	path = jade.tmbundle
+	url = git://github.com/miksago/jade-tmbundle
+[submodule "javascript-node.tmbundle"]
+	path = javascript-node.tmbundle
+	url = git://github.com/drnic/javascript-node.tmbundle.git
+[submodule "javascript-tools.tmbundle"]
+	path = javascript-tools.tmbundle
+	url = https://github.com/subtleGradient/javascript-tools.tmbundle.git
+[submodule "less.tmbundle"]
+	path = less.tmbundle
+	url = https://github.com/appden/less.tmbundle.git
+[submodule "rspec.tmbundle"]
+	path = rspec.tmbundle
+	url = https://github.com/rspec/rspec-tmbundle.git
+[submodule "ruby-on-rails.tmbundle"]
+	path = ruby-on-rails.tmbundle
+	url = https://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "ruby-haml.tmbundle"]
+	path = ruby-haml.tmbundle
+	url = https://github.com/mattpolito/ruby-haml.tmbundle.git
+[submodule "scheme.tmbundle"]
+	path = scheme.tmbundle
+	url = https://github.com/textmate/scheme.tmbundle.git
+[submodule "SCSS.tmbundle"]
+	path = SCSS.tmbundle
+	url = git://github.com/kuroir/SCSS.tmbundle.git
+[submodule "tumblr-themes.tmbundle"]
+	path = tumblr-themes.tmbundle
+	url = https://github.com/bengold/tumblr-themes.tmbundle.git
