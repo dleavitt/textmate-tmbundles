@@ -58,3 +58,30 @@
 [submodule "tumblr-themes.tmbundle"]
 	path = tumblr-themes.tmbundle
 	url = https://github.com/bengold/tumblr-themes.tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = git://github.com/drnic/ruby-tmbundle.git
+[submodule "jquery.tmbundle"]
+	path = jquery.tmbundle
+	url = git://github.com/kswedberg/jquery-tmbundle.git
+[submodule "ruby-shoulda.tmbundle"]
+	path = ruby-shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "CSS3.tmbundle"]
+	path = CSS3.tmbundle
+	url = git://github.com/desandro/CSS3.tmbundle.git
+[submodule "markdown.tmbundle"]
+	path = markdown.tmbundle
+	url = git://github.com/textmate/markdown.tmbundle.git
+[submodule "html.tmbundle"]
+	path = html.tmbundle
+	url = https://github.com/textmate/html.tmbundle.git
+[submodule "Kohana.tmbundle"]
+	path = Kohana.tmbundle
+	url = https://github.com/kohana/Kohana.tmbundle.git
+[submodule "php.tmbundle"]
+	path = php.tmbundle
+	url = git://github.com/textmate/php.tmbundle.git
+[submodule "PHP-Twig.tmbundle"]
+	path = PHP-Twig.tmbundle
+	url = git://github.com/Anomareh/PHP-Twig.tmbundle.git
